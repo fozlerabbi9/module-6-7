@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: rgba(219, 240, 240,0.8);
+    width: 98%;
+    height: 100vh;
+    margin: 0 auto;
+}
+header{
+    background-image: url(./webbannerpic/banner1.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+nav{
+    background-color: rgba(0,0,0,0.6);
+}
